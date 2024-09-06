@@ -1,23 +1,9 @@
 # Employee Turnover Prediction
-### Build models (Logistic Regression, SVM, KNN, Random Forest) to predict the target variable "left" (modeling if an employee has left the company or not)
-
-The data was downloaded from Kaggle. Each row represents an employee, each column contains employee attributes:
-- Satisfaction_level (0–1)
-
-- Last_evaluation (Time since last evaluation in years)
-
-- Number_projects (Number of projects completed while at work)
-
-- Average_monthly_hours (Average monthly hours at workplace)
-
-- Time_spend_company (Time spent at the company in years)
-
-- Work_accident (Whether the employee had a workplace accident)
-
-- Left (Whether the employee left the workplace or not (1 or 0))
-
-- Promotion_last_5years (Whether the employee was promoted in the last five years)
-
-- Sales (Department in which they work for)
-
-- Salary (Relative level of salary)
+Employee turnover is a critical challenge for organizations,, as losing valuable employees can lead to increased recruitment and training costs, loss of institutional knowledge, and disruption in operations. Predicting which employees are likely to leave allows organizations to proactively address the root causes of turnover and retain top talent. 
+This case study aims to build and evaluate machine learning models for predicting employee turnover using historical employee data. By analyzing various demographic and employment factors, such as job satisfaction, years at the company, and salary levels, the goal is to develop a model that accurately predicts the likelihood of employees leaving.
+In this analysis, four machine learning models were employed:
+### Random Forest Classifier
+### Logistic Regression
+### Support Vector Machine (SVM)
+### K-Nearest Neighbors (KNN)
+The purpose is to evaluate these models, comparing their accuracy, precision, recall, F1-score, and the ability to handle class imbalance, especially in predicting employees likely to leave (the minority class).
