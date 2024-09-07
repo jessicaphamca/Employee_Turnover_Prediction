@@ -101,3 +101,7 @@ The **Random Forest** model is the best-performing model for predicting employee
 
 ## Business Impact
 By implementing this model, the organization can significantly reduce employee turnover, resulting in cost savings, improved employee satisfaction, and enhanced productivity.
+
+## Jupyter Notebook
+
+[View the notebook on GitHub](https://github.com/jessicaphamca/Employee_Turnover_Prediction/blob/main/HR_analysis.ipynb)
