@@ -105,3 +105,5 @@ By implementing this model, the organization can significantly reduce employee t
 ## Jupyter Notebook
 
 [View the notebook on GitHub](https://github.com/jessicaphamca/Employee_Turnover_Prediction/blob/main/HR_analysis.ipynb)
+
+[Download the presentation PDF](https://github.com/jessicaphamca/Employee_Turnover_Prediction/blob/main/HR%20Analysis%20Presentation.pdf)
